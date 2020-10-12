@@ -1,0 +1,1 @@
+array=numpy.zeros((num,num),dtype=numpy.int16)
